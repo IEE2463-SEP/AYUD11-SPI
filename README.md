@@ -6,7 +6,7 @@
     * [AYUD11.zip](por subir): El cual contiene el proyecto en vivado.
     * [SPI_wrapper.xsa](SPI_wrapper.xsa): El cual contiene el código archivo xsa utilizado en la ayudantía.  
     * [Zybo-Z7_Master.xdc](Zybo-Z7-Master.xdc):  El cual contiene los constrains de nuestra tarjeta (mapeo de pines)
-    * * [archivoAYUD11](archivoAYUD11): Contiene los archivos en C que se utilizan en Vitis.
+    * [archivoAYUD11](archivoAYUD11): Contiene los archivos en C que se utilizan en Vitis.
 3. Durante la ayudantía desarrollaremos los ejercicios propuestos de la guía de ejercicios.
    
 
